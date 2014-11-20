@@ -5,4 +5,5 @@
 !
 ! This will contain lists of Advertisements for Persian websites.
 ! Soft98.ir !
-soft98.ir#div.centp
+soft98.ir##div.centp
+soft98.ir##.box3.bg4
