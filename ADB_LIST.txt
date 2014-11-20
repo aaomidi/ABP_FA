@@ -7,3 +7,4 @@
 ! Soft98.ir !
 soft98.ir##div.centp
 soft98.ir##.box3.bg4
+soft98.ir##.block_h_1.block_f_t
