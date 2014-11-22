@@ -14,3 +14,4 @@ varzesh3.com##[id^="ads-"]
 ! asriran.com !
 asriran.com##[class$="adv"]
 asriran.com##[class*="column_ad"]
+asriran.com##[class*="logo_adv"]
