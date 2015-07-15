@@ -15,5 +15,6 @@ varzesh3.com##[id^="ads-"]
 asriran.com##[class$="adv"]
 asriran.com##[class*="column_ad"]
 asriran.com##[class*="logo_adv"]
+asriran.com/files/adv/*
 ! tabnak.ir !
 tabnak.ir##[class$="adv"]
