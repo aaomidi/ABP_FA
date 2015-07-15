@@ -23,3 +23,5 @@
 ||tabnak.ir##[class$="adv"]
 ! yjc.ir !
 ||yjc.ir/files/adv/*
+! persiantools !
+||forum.persiantools.com##span[class*="ptbbox"]
