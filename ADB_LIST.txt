@@ -18,5 +18,5 @@
 ||asriran.com/files/adv/*
 ! tabnak.ir !
 ||tabnak.ir##[class$="adv"]
-! yjc.ir
+! yjc.ir !
 ||yjc.ir/files/adv/*
