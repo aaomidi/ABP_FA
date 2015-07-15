@@ -6,6 +6,7 @@
 ! This will contain lists of Advertisements for Persian websites.
 ! Most Iranian news websites !
 */files/ads/*
+*/files/adv/*
 ! soft98.ir !
 ||soft98.ir##div.centp
 ||soft98.ir##.box3.bg4
