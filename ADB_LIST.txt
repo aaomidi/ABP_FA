@@ -5,16 +5,16 @@
 !
 ! This will contain lists of Advertisements for Persian websites.
 ! soft98.ir !
-soft98.ir##div.centp
-soft98.ir##.box3.bg4
-soft98.ir##.block_h_1.block_f_t
-soft98.ir##A[href*="http://tabligh.soft98.ir/"]
+||soft98.ir##div.centp
+||soft98.ir##.box3.bg4
+||soft98.ir##.block_h_1.block_f_t
+||soft98.ir##A[href*="http://tabligh.soft98.ir/"]
 ! varzesh3.com !
-varzesh3.com##[id^="ads-"]
+||varzesh3.com##[id^="ads-"]
 ! asriran.com !
-asriran.com##[class$="adv"]
-asriran.com##[class*="column_ad"]
-asriran.com##[class*="logo_adv"]
-asriran.com/files/adv/*
+||asriran.com##[class$="adv"]
+||asriran.com##[class*="column_ad"]
+||asriran.com##[class*="logo_adv"]
+||asriran.com/files/adv/*
 ! tabnak.ir !
-tabnak.ir##[class$="adv"]
+||tabnak.ir##[class$="adv"]
