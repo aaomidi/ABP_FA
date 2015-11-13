@@ -30,4 +30,4 @@
 
 ||download.ir##Ads[alt*="Ads"]
 
-||farsroid.com##[class="attachment-sabet wp-post-image"]
+||farsroid.com##[class$="attachment-sabet wp-post-image"]
