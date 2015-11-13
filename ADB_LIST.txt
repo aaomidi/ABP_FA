@@ -28,4 +28,4 @@
 ! p30download.com !
 ||p30download.com/tabliq/*
 
-||download.com##A[alt*="Ads"]
+||download.ir##A[alt*="Ads"]
