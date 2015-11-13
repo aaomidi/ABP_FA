@@ -27,4 +27,3 @@
 ||forum.persiantools.com##span[class*="ptbbox"]
 ! p30download.com
 ||p30download.com/tabliq/*
-||p30download.com/tabliq/banner/files/*
