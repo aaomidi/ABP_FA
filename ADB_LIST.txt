@@ -25,3 +25,11 @@
 ||yjc.ir/files/adv/*
 ! persiantools !
 ||forum.persiantools.com##span[class*="ptbbox"]
+! p30download.com !
+||p30download.com/tabliq/*
+
+||download.ir##Ads[alt*="Ads"]
+
+||farsroid.com##[class$="attachment-sabet wp-post-image"]
+||farsroid.com##attachment-sabet wp-post-image
+||farsroid.com##[class^="attachment-sabet wp-post-image"]
